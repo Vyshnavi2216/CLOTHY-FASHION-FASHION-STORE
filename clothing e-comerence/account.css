@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.one-one{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    padding-left: 40rem;
+}
+.header {
+
+    background:radial-gradient(#fff,#9ddba2);
+}
